@@ -1,5 +1,6 @@
 *{
     font-family: Helvetica, sans-serif;
+    color: white;
 }
 
 #title {
@@ -23,7 +24,7 @@
 
 #tribute-info {
     margin: auto;
-    max-width: 70%;
+    max-width: 80%;
 }
 
 #tribute-link {
@@ -45,5 +46,10 @@ h2, h3, p {
     text-align: center;
 }
 
+#subtitle {
+    margin-top: -25px;
+}
 
-
+body {
+    background-color: slategray;
+}
